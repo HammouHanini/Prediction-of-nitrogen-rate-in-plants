@@ -1,2 +1,2 @@
-# Kaggle
-Prediction of nitrogen rate in plants
+# Prediction of nitrogen rate in plants
+
